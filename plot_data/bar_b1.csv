@@ -1,0 +1,21 @@
+station_destination,flow,Model
+Stratford High Street,1076,Initial 
+Elverson Road,335,Initial 
+St James Street,177,Initial 
+Rotherhithe,521,Initial 
+Fairlop,168,Initial 
+Abbey Road,445,Initial 
+Gidea Park,510,Initial 
+Penge West,186,Initial 
+Emerson Park,27,Initial 
+Ruislip Manor,345,Initial 
+Stratford High Street,6344,Scenario B (Beta = 1.76)
+Elverson Road,1585,Scenario B (Beta = 1.76)
+St James Street,632,Scenario B (Beta = 1.76)
+Rotherhithe,1583,Scenario B (Beta = 1.76)
+Fairlop,495,Scenario B (Beta = 1.76)
+Abbey Road,1280,Scenario B (Beta = 1.76)
+Gidea Park,1452,Scenario B (Beta = 1.76)
+Penge West,527,Scenario B (Beta = 1.76)
+Emerson Park,74,Scenario B (Beta = 1.76)
+Ruislip Manor,880,Scenario B (Beta = 1.76)

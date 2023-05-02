@@ -1,0 +1,21 @@
+station_destination,flow,Model
+Elverson Road,335,Initial 
+Beckton,232,Initial 
+Deptford Bridge,698,Initial 
+Island Gardens,624,Initial 
+Crossharbour,1043,Initial 
+Greenwich,956,Initial 
+Cutty Sark,1193,Initial 
+Mudchute,342,Initial 
+South Quay,3036,Initial 
+Lewisham,991,Initial 
+Elverson Road,369,Scenario A
+Beckton,254,Scenario A
+Deptford Bridge,764,Scenario A
+Island Gardens,683,Scenario A
+Crossharbour,1140,Scenario A
+Greenwich,1044,Scenario A
+Cutty Sark,1302,Scenario A
+Mudchute,373,Scenario A
+South Quay,3306,Scenario A
+Lewisham,1077,Scenario A

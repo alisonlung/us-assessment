@@ -1,0 +1,21 @@
+station_destination,flow,Model
+Stratford High Street,1076,Initial 
+Elverson Road,335,Initial 
+St James Street,177,Initial 
+Fairlop,168,Initial 
+West Finchley,106,Initial 
+Ruislip Gardens,105,Initial 
+Rotherhithe,521,Initial 
+Grange Hill,67,Initial 
+Barkingside,263,Initial 
+Ruislip Manor,345,Initial 
+Stratford High Street,23622,Scenario B (Beta = 2.63)
+Elverson Road,4569,Scenario B (Beta = 2.63)
+St James Street,2341,Scenario B (Beta = 2.63)
+Fairlop,1977,Scenario B (Beta = 2.63)
+West Finchley,1113,Scenario B (Beta = 2.63)
+Ruislip Gardens,1022,Scenario B (Beta = 2.63)
+Rotherhithe,5027,Scenario B (Beta = 2.63)
+Grange Hill,556,Scenario B (Beta = 2.63)
+Barkingside,2066,Scenario B (Beta = 2.63)
+Ruislip Manor,2412,Scenario B (Beta = 2.63)

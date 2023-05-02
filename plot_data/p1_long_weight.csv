@@ -1,0 +1,17 @@
+Num,cnt,Measure,Score,Station,Strategy
+0,0.129119528,Global Efficiency ,,,Non-sequential 
+0,0.129119528,Global Efficiency ,,,Sequential 
+0,0.037764766,Average Local Efficiency ,,,Non-sequential 
+0,0.037764766,Average Local Efficiency ,,,Sequential 
+1,0.116822441,Global Efficiency ,0.613157895,Bank and Monument,Non-sequential 
+2,0.113668989,Global Efficiency ,0.582362155,Waterloo,Non-sequential 
+3,0.109284946,Global Efficiency ,0.414295113,Green Park,Non-sequential 
+1,0.116822441,Global Efficiency ,0.613157895,Bank and Monument,Sequential 
+2,0.105065875,Global Efficiency ,0.430813214,King's Cross St. Pancras,Sequential 
+3,0.098788068,Global Efficiency ,0.418604357,Green Park,Sequential 
+1,0.036571598,Average Local Efficiency ,,Bank and Monument,Non-sequential 
+2,0.034354873,Average Local Efficiency ,,Waterloo,Non-sequential 
+3,0.032320654,Average Local Efficiency ,,Green Park,Non-sequential 
+1,0.036571598,Average Local Efficiency ,,Bank and Monument,Sequential 
+2,0.036831011,Average Local Efficiency ,,King's Cross St. Pancras,Sequential 
+3,0.035268598,Average Local Efficiency ,,Green Park,Sequential 

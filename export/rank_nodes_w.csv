@@ -1,0 +1,11 @@
+,CC_w,BC_w,EC_w
+0,Green Park,Bank and Monument,Waterloo
+1,Westminster,Waterloo,Bank and Monument
+2,Bank and Monument,Green Park,Westminster
+3,Waterloo,Westminster,Green Park
+4,Liverpool Street,Stratford,Liverpool Street
+5,Oxford Circus,Liverpool Street,Moorgate
+6,Bond Street,Euston,London Bridge
+7,Victoria,Baker Street,Stratford
+8,Moorgate,Earl's Court,Oxford Circus
+9,Hyde Park Corner,King's Cross St. Pancras,Bond Street

@@ -1,0 +1,187 @@
+Num,LCC,GE,Score,Measure,Strategy
+0,401,0.101256194,,Closeness ,Non-sequential 
+0,401,0.101256194,,Betweenness,Non-sequential 
+0,401,0.101256194,,Eigenvector,Non-sequential 
+0,401,0.101256194,,Closeness ,Sequential 
+0,401,0.101256194,,Betweenness,Sequential 
+0,401,0.101256194,,Eigenvector,Sequential 
+1,400,0.09918992,0.114777618,Closeness ,Non-sequential 
+2,399,0.094872325,0.113571834,Closeness ,Non-sequential 
+3,398,0.087933851,0.113442995,Closeness ,Non-sequential 
+4,397,0.087371646,0.11254924,Closeness ,Non-sequential 
+5,396,0.084859438,0.112264945,Closeness ,Non-sequential 
+6,395,0.082781351,0.111203781,Closeness ,Non-sequential 
+7,394,0.082580864,0.110987791,Closeness ,Non-sequential 
+8,393,0.082600405,0.110741971,Closeness ,Non-sequential 
+9,392,0.082622331,0.110741971,Closeness ,Non-sequential 
+10,389,0.081669914,0.110314396,Closeness ,Non-sequential 
+11,388,0.081294809,0.110253583,Closeness ,Non-sequential 
+12,349,0.072197632,0.109829764,Closeness ,Non-sequential 
+13,349,0.072570746,0.109200109,Closeness ,Non-sequential 
+14,349,0.07294676,0.109200109,Closeness ,Non-sequential 
+15,345,0.070901221,0.108962136,Closeness ,Non-sequential 
+16,343,0.069583506,0.108137334,Closeness ,Non-sequential 
+17,342,0.069598797,0.107296137,Closeness ,Non-sequential 
+18,342,0.069731418,0.106923283,Closeness ,Non-sequential 
+19,342,0.07008372,0.106809079,Closeness ,Non-sequential 
+20,342,0.070299487,0.106269926,Closeness ,Non-sequential 
+21,342,0.070634586,0.1062417,Closeness ,Non-sequential 
+22,342,0.070961779,0.105960265,Closeness ,Non-sequential 
+23,342,0.071338234,0.105764146,Closeness ,Non-sequential 
+24,342,0.071658905,0.105540897,Closeness ,Non-sequential 
+25,341,0.069689432,0.105207785,Closeness ,Non-sequential 
+26,341,0.070062102,0.104904275,Closeness ,Non-sequential 
+27,341,0.07043777,0.104849279,Closeness ,Non-sequential 
+28,341,0.070802054,0.104849279,Closeness ,Non-sequential 
+29,341,0.071183737,0.104712042,Closeness ,Non-sequential 
+30,341,0.071568513,0.104438642,Closeness ,Non-sequential 
+1,379,0.088917361,0.297845782,Betweenness,Non-sequential 
+2,378,0.085861644,0.29048946,Betweenness,Non-sequential 
+3,377,0.084963493,0.270806855,Betweenness,Non-sequential 
+4,371,0.078497754,0.255307287,Betweenness,Non-sequential 
+5,370,0.075942266,0.243920831,Betweenness,Non-sequential 
+6,369,0.074151542,0.215834864,Betweenness,Non-sequential 
+7,346,0.068205647,0.208324254,Betweenness,Non-sequential 
+8,345,0.067659503,0.203335287,Betweenness,Non-sequential 
+9,342,0.064700058,0.191567765,Betweenness,Non-sequential 
+10,339,0.063139037,0.165084687,Betweenness,Non-sequential 
+11,338,0.06169349,0.161985415,Betweenness,Non-sequential 
+12,324,0.055581011,0.15137332,Betweenness,Non-sequential 
+13,305,0.051880739,0.141590993,Betweenness,Non-sequential 
+14,302,0.049095799,0.139343625,Betweenness,Non-sequential 
+15,297,0.047192355,0.135097913,Betweenness,Non-sequential 
+16,285,0.0448922,0.1305242,Betweenness,Non-sequential 
+17,285,0.045066563,0.130168651,Betweenness,Non-sequential 
+18,284,0.04293506,0.125892328,Betweenness,Non-sequential 
+19,283,0.042947687,0.108266859,Betweenness,Non-sequential 
+20,149,0.030976553,0.107647636,Betweenness,Non-sequential 
+21,146,0.030642329,0.105999732,Betweenness,Non-sequential 
+22,146,0.030804457,0.10570629,Betweenness,Non-sequential 
+23,145,0.03080938,0.104630077,Betweenness,Non-sequential 
+24,133,0.029530786,0.103558649,Betweenness,Non-sequential 
+25,133,0.029688284,0.100620052,Betweenness,Non-sequential 
+26,133,0.029847045,0.099093613,Betweenness,Non-sequential 
+27,133,0.027311232,0.098554733,Betweenness,Non-sequential 
+28,133,0.027137951,0.096478697,Betweenness,Non-sequential 
+29,133,0.027111836,0.096322068,Betweenness,Non-sequential 
+30,118,0.025284021,0.096166647,Betweenness,Non-sequential 
+1,400,0.096734756,0.383725259,Eigenvector,Non-sequential 
+2,399,0.094668372,0.329190939,Eigenvector,Non-sequential 
+3,377,0.084963493,0.269574382,Eigenvector,Non-sequential 
+4,376,0.082797443,0.249707973,Eigenvector,Non-sequential 
+5,375,0.082749219,0.215342581,Eigenvector,Non-sequential 
+6,374,0.080952639,0.197023106,Eigenvector,Non-sequential 
+7,373,0.08010365,0.183440953,Eigenvector,Non-sequential 
+8,371,0.079741271,0.171839115,Eigenvector,Non-sequential 
+9,370,0.079100291,0.168367836,Eigenvector,Non-sequential 
+10,368,0.077579484,0.15923344,Eigenvector,Non-sequential 
+11,367,0.077585665,0.15554565,Eigenvector,Non-sequential 
+12,365,0.076299628,0.150276872,Eigenvector,Non-sequential 
+13,364,0.076278091,0.149406925,Eigenvector,Non-sequential 
+14,359,0.075141976,0.144344924,Eigenvector,Non-sequential 
+15,356,0.071575742,0.137510689,Eigenvector,Non-sequential 
+16,355,0.07120689,0.130997001,Eigenvector,Non-sequential 
+17,352,0.070606618,0.129006987,Eigenvector,Non-sequential 
+18,352,0.070976287,0.128861521,Eigenvector,Non-sequential 
+19,351,0.071044444,0.12688703,Eigenvector,Non-sequential 
+20,350,0.071016654,0.10934221,Eigenvector,Non-sequential 
+21,350,0.071365953,0.107039691,Eigenvector,Non-sequential 
+22,348,0.071095121,0.103751299,Eigenvector,Non-sequential 
+23,348,0.071472283,0.102873381,Eigenvector,Non-sequential 
+24,347,0.071464788,0.101102309,Eigenvector,Non-sequential 
+25,346,0.071415182,0.099346842,Eigenvector,Non-sequential 
+26,345,0.071309051,0.096923497,Eigenvector,Non-sequential 
+27,343,0.068644767,0.092555918,Eigenvector,Non-sequential 
+28,337,0.0673158,0.092470121,Eigenvector,Non-sequential 
+29,337,0.067664197,0.083984217,Eigenvector,Non-sequential 
+30,337,0.068008094,0.079114973,Eigenvector,Non-sequential 
+1,400,0.09918992,0.114777618,Closeness ,Sequential 
+2,399,0.09443475,0.112362715,Closeness ,Sequential 
+3,398,0.091816481,0.10465422,Closeness ,Sequential 
+4,397,0.085425631,0.097423313,Closeness ,Sequential 
+5,396,0.080544248,0.081733746,Closeness ,Sequential 
+6,226,0.058101042,0.075976149,Closeness ,Sequential 
+7,226,0.051883621,0.063731777,Closeness ,Sequential 
+8,225,0.050350001,0.063644661,Closeness ,Sequential 
+9,195,0.044394587,0.060434372,Closeness ,Sequential 
+10,194,0.042957711,0.050501445,Closeness ,Sequential 
+11,193,0.041119379,0.047188862,Closeness ,Sequential 
+12,193,0.040578063,0.040410704,Closeness ,Sequential 
+13,176,0.036772753,0.037837638,Closeness ,Sequential 
+14,176,0.034408307,0.036609276,Closeness ,Sequential 
+15,176,0.030708932,0.037542433,Closeness ,Sequential 
+16,176,0.029111634,0.03529247,Closeness ,Sequential 
+17,85,0.024290357,0.030140818,Closeness ,Sequential 
+18,85,0.022692686,0.027738626,Closeness ,Sequential 
+19,85,0.020379338,0.026126173,Closeness ,Sequential 
+20,61,0.01837399,0.026010794,Closeness ,Sequential 
+21,61,0.017482727,0.02137323,Closeness ,Sequential 
+22,61,0.016580349,0.021003164,Closeness ,Sequential 
+23,39,0.015609805,0.019677292,Closeness ,Sequential 
+24,39,0.014970938,0.019397993,Closeness ,Sequential 
+25,31,0.014094329,0.019012008,Closeness ,Sequential 
+26,30,0.013375747,0.018181818,Closeness ,Sequential 
+27,29,0.01285213,0.016907241,Closeness ,Sequential 
+28,29,0.012450553,0.01603834,Closeness ,Sequential 
+29,29,0.012177898,0.015665554,Closeness ,Sequential 
+30,29,0.01197564,0.015530741,Closeness ,Sequential 
+1,379,0.088917361,0.297845782,Betweenness,Sequential 
+2,378,0.084602931,0.247262422,Betweenness,Sequential 
+3,377,0.081828953,0.254179977,Betweenness,Sequential 
+4,376,0.077677943,0.214650907,Betweenness,Sequential 
+5,375,0.072832341,0.244902719,Betweenness,Sequential 
+6,227,0.053210204,0.45683118,Betweenness,Sequential 
+7,226,0.0516563,0.096181658,Betweenness,Sequential 
+8,196,0.045844213,0.128852135,Betweenness,Sequential 
+9,173,0.04163077,0.087075161,Betweenness,Sequential 
+10,170,0.038163704,0.098437056,Betweenness,Sequential 
+11,147,0.032996526,0.096948125,Betweenness,Sequential 
+12,144,0.0312653,0.046880494,Betweenness,Sequential 
+13,104,0.027469532,0.061392152,Betweenness,Sequential 
+14,101,0.024872642,0.037394064,Betweenness,Sequential 
+15,70,0.022583043,0.034997645,Betweenness,Sequential 
+16,58,0.020513411,0.020021645,Betweenness,Sequential 
+17,58,0.019386347,0.01183094,Betweenness,Sequential 
+18,43,0.018012638,0.011685554,Betweenness,Sequential 
+19,42,0.016993967,0.008080142,Betweenness,Sequential 
+20,34,0.0160822,0.006133444,Betweenness,Sequential 
+21,34,0.015400117,0.004416053,Betweenness,Sequential 
+22,34,0.015006973,0.003155059,Betweenness,Sequential 
+23,33,0.014657589,0.003046655,Betweenness,Sequential 
+24,29,0.01401772,0.003954324,Betweenness,Sequential 
+25,27,0.01368122,0.002879433,Betweenness,Sequential 
+26,27,0.013152482,0.002737968,Betweenness,Sequential 
+27,27,0.012752952,0.002508925,Betweenness,Sequential 
+28,23,0.012490876,0.002435931,Betweenness,Sequential 
+29,22,0.012070987,0.002159233,Betweenness,Sequential 
+30,20,0.011812655,0.001733809,Betweenness,Sequential 
+1,400,0.096734756,0.383725259,Eigenvector,Sequential 
+2,399,0.09572155,0.416548465,Eigenvector,Sequential 
+3,377,0.084813389,0.530688061,Eigenvector,Sequential 
+4,376,0.083368667,0.414025941,Eigenvector,Sequential 
+5,375,0.082411576,0.31704408,Eigenvector,Sequential 
+6,373,0.078219191,0.428266845,Eigenvector,Sequential 
+7,370,0.072074069,0.516563625,Eigenvector,Sequential 
+8,356,0.066898937,0.53073109,Eigenvector,Sequential 
+9,355,0.065458202,0.538162378,Eigenvector,Sequential 
+10,354,0.064080403,0.4207106,Eigenvector,Sequential 
+11,353,0.063617553,0.345248013,Eigenvector,Sequential 
+12,352,0.062889308,0.41596226,Eigenvector,Sequential 
+13,346,0.061188131,0.407561608,Eigenvector,Sequential 
+14,327,0.05206111,0.42221982,Eigenvector,Sequential 
+15,296,0.047253145,0.525600642,Eigenvector,Sequential 
+16,284,0.043934041,0.439671619,Eigenvector,Sequential 
+17,271,0.03736917,0.424371088,Eigenvector,Sequential 
+18,263,0.035882888,0.452149834,Eigenvector,Sequential 
+19,145,0.027768907,0.429876402,Eigenvector,Sequential 
+20,145,0.025594182,0.510508894,Eigenvector,Sequential 
+21,95,0.020439826,0.454891333,Eigenvector,Sequential 
+22,86,0.018149406,0.518879453,Eigenvector,Sequential 
+23,82,0.017885469,0.556569048,Eigenvector,Sequential 
+24,82,0.01722198,0.492291901,Eigenvector,Sequential 
+25,82,0.016681029,0.564340962,Eigenvector,Sequential 
+26,82,0.015606995,0.547586137,Eigenvector,Sequential 
+27,82,0.015254556,0.58735718,Eigenvector,Sequential 
+28,43,0.013447301,0.387708063,Eigenvector,Sequential 
+29,30,0.012643941,0.409067212,Eigenvector,Sequential 
+30,30,0.012151544,0.423128063,Eigenvector,Sequential 
